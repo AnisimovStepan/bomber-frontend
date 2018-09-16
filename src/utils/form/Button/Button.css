@@ -1,0 +1,16 @@
+.form-button {
+    -webkit-tap-highlight-color: transparent;
+    background-color: transparent;
+}
+
+.form-button__submit {
+    width: 100%;
+    /*display: flex;*/
+    /*align-items: flex-end;*/
+    /*justify-content: center;*/
+}
+
+.form-button__submit__text {
+    /*margin-left: 10px;*/
+    position: relative;
+}

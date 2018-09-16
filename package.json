@@ -1,8 +1,8 @@
 {
-  "name": "BGold",
+  "name": "Bomber",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://test.flg.bet/FLG.Space/BGold",
+  "homepage": "",
   "devDependencies": {
     "react-scripts": "1.1.0",
     "enzyme": "^3.3.0",
